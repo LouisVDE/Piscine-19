@@ -34,11 +34,11 @@ int	ft_sqrt(int nb)
 	}
 	return (0);
 }
-#include <stdio.h>
+/*#include <stdio.h>
 int main()
 {
 	printf("racine de %d = %d\n", 0, ft_sqrt(0));
 	printf("racine de %d = %d\n", 25, ft_sqrt(25));
 	printf("racine de %d = %d\n", 60, ft_sqrt(60));
 	printf("racine de %d = %d\n", 7, ft_sqrt(7));
-}
+}*/
